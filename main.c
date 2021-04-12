@@ -14,4 +14,5 @@ void rev(char *string){
    strrev(string);
       printf( string);
    return 0;
+
 }
